@@ -1,0 +1,26 @@
+2020-02-17 15:25:33,722 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-17 15:26:42,967 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\epam1\cleancode\house construction cost\project.houseconstructioncost\pom.xml
+2020-02-17 15:26:44,020 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test:project.houseconstructioncost:0.0.1-SNAPSHOT @ D:\epam1\cleancode\house construction cost\project.houseconstructioncost\pom.xml.
+2020-02-17 15:26:44,409 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project.houseconstructioncost/src/main/java
+2020-02-17 15:26:44,414 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project.houseconstructioncost/src/test/java
+2020-02-17 15:26:44,554 [Worker-4: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-02-17 15:26:45,542 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:26:45,543 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\house construction cost\project.houseconstructioncost\src\main\resources
+2020-02-17 15:26:45,545 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:26:45,546 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\house construction cost\project.houseconstructioncost\src\test\resources
+2020-02-17 15:27:26,885 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:27:26,886 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\house construction cost\project.houseconstructioncost\src\main\resources
+2020-02-17 15:27:26,888 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:27:26,888 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\house construction cost\project.houseconstructioncost\src\test\resources
+2020-02-17 15:39:43,352 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:39:43,353 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\house construction cost\project.houseconstructioncost\src\main\resources
+2020-02-17 15:39:43,355 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:39:43,355 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\house construction cost\project.houseconstructioncost\src\test\resources
+2020-02-17 15:43:36,100 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:43:36,101 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\house construction cost\project.houseconstructioncost\src\main\resources
+2020-02-17 15:43:36,103 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:43:36,103 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\house construction cost\project.houseconstructioncost\src\test\resources
+2020-02-17 15:49:32,134 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:49:32,135 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\house construction cost\project.houseconstructioncost\src\main\resources
+2020-02-17 15:49:32,137 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-17 15:49:32,137 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\epam1\cleancode\house construction cost\project.houseconstructioncost\src\test\resources
